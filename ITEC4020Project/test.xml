@@ -1,0 +1,591 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2006//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_060101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2002</Year>
+            <Month>10</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>John Snow and modern-day environmental epidemiology.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-3</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sandler</LastName>
+                    <ForeName>D P</ForeName>
+                    <Initials>DP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comment</PublicationType>
+                <PublicationType>Editorial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>J</CitationSubset>
+        <CommentsCorrections>
+            <CommentOn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):10-2</RefSource>
+
+            </CommentOn>
+            <CommentOn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):4-9</RefSource>
+
+            </CommentOn>
+        </CommentsCorrections>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Epidemiology</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="PIP">151458</OtherID>
+        <OtherID Source="POP">00296807</OtherID>
+        <OtherAbstract Type="PIP">
+            <AbstractText>In an issue of the American Journal of Epidemiology highlighting the challenges of studying disease risks associated with low-dose environmental exposures, author John Snow was described giving an expert-witness testimony on behalf of industry.  It is noted that emanations from the bone-boiling factories were not causing ill health in the community at large.  This statement invoked arguments that are often raised when unexpected health effects are encountered following supposed low-dose exposures.  In addition to this historical report of John Snow, the issue of the Journal features articles that illustrate various aspects of the difficulties faced in studying health effects of environmental exposures.  Several of these issues include innovative attempts to improve the quality of such research.  Moreover, these articles demonstrate that technological advances are making possible a wide range of innovative study designs and strategies to better assess both exposures and outcomes.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="PIP">
+            <Keyword MajorTopicYN="N">Biology</Keyword>
+            <Keyword MajorTopicYN="Y">Critique</Keyword>
+            <Keyword MajorTopicYN="N">Economic Factors</Keyword>
+            <Keyword MajorTopicYN="N">Environment</Keyword>
+            <Keyword MajorTopicYN="N">Environmental Degradation</Keyword>
+            <Keyword MajorTopicYN="Y">Environmental Pollution</Keyword>
+            <Keyword MajorTopicYN="Y">Epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">Health</Keyword>
+            <Keyword MajorTopicYN="N">Public Health</Keyword>
+            <Keyword MajorTopicYN="Y">Research And Development</Keyword>
+            <Keyword MajorTopicYN="Y">Risk Factors</Keyword>
+            <Keyword MajorTopicYN="N">Technology</Keyword>
+        </KeywordList>
+        <GeneralNote Owner="PIP">TJ: AMERICAN JOURNAL OF EPIDEMIOLOGY.</GeneralNote>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>John Snow: the first hired gun?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The 1854 English cholera outbreak led to reform of Victorian public health legislation, including the Nuisances Removal and Diseases Prevention Act. The reforms threatened the closure of many factories whose fumes were considered hazardous to the public's health. The second witness to appear before the Parliamentary committee considering the reforms was Dr. John Snow. Snow testified on behalf of the manufacturers threatened by the reforms. He stated that the fumes from such establishments were not hazardous. He contended that the workers in these factories did not become ill as a result of their exposures, and therefore these fumes could not be a hazard to the general public's health. Snow also presented data from the 1854 cholera outbreak as the basis for his belief that epidemic diseases were transmitted by water, not air. Although the data concerned cholera, Snow extended the inference to all epidemic diseases. When the committee's report was published, The Lancet chastised Snow in a stinging editorial. Parliament subsequently revised the bill in favor of the manufacturers and passed it into law. The implications of this particular episode in the history of epidemiology are discussed.</AbstractText>
+            </Abstract>
+            <Affiliation>Bristol-Myers Squibb, Pennington, NJ 08534, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lilienfeld</LastName>
+                    <ForeName>D E</ForeName>
+                    <Initials>DE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Biography</PublicationType>
+                <PublicationType>Historical Article</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>J</CitationSubset>
+        <CitationSubset>Q</CitationSubset>
+        <CommentsCorrections>
+            <CommentIn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):1-3</RefSource>
+
+            </CommentIn>
+            <CommentIn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):10-2</RefSource>
+
+            </CommentIn>
+        </CommentsCorrections>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cholera</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Outbreaks</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Transmission</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">England</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epidemiology</DescriptorName>
+                <QualifierName MajorTopicYN="Y">history</QualifierName>
+                <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">History, 19th Century</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Industry</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+                <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Periodicals</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Public Health</DescriptorName>
+                <QualifierName MajorTopicYN="Y">history</QualifierName>
+                <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <PersonalNameSubjectList>
+            <PersonalNameSubject>
+                <LastName>Snow</LastName>
+                <ForeName>J</ForeName>
+                <Initials>J</Initials>
+            </PersonalNameSubject>
+        </PersonalNameSubjectList>
+        <OtherID Source="PIP">151459</OtherID>
+        <OtherID Source="POP">00296808</OtherID>
+        <KeywordList Owner="PIP">
+            <Keyword MajorTopicYN="N">Bacterial And Fungal Diseases</Keyword>
+            <Keyword MajorTopicYN="Y">Cholera</Keyword>
+            <Keyword MajorTopicYN="N">Developed Countries</Keyword>
+            <Keyword MajorTopicYN="N">Diseases</Keyword>
+            <Keyword MajorTopicYN="N">England</Keyword>
+            <Keyword MajorTopicYN="Y">Epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">Europe</Keyword>
+            <Keyword MajorTopicYN="N">Health</Keyword>
+            <Keyword MajorTopicYN="Y">Historical Survey</Keyword>
+            <Keyword MajorTopicYN="N">Infections</Keyword>
+            <Keyword MajorTopicYN="Y">Legislation</Keyword>
+            <Keyword MajorTopicYN="N">Northern Europe</Keyword>
+            <Keyword MajorTopicYN="Y">Public Health</Keyword>
+            <Keyword MajorTopicYN="N">United Kingdom</Keyword>
+        </KeywordList>
+        <GeneralNote Owner="PIP">TJ: AMERICAN JOURNAL OF EPIDEMIOLOGY.</GeneralNote>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Invited commentary: the testimony of Dr. Snow.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>10-2</MedlinePgn>
+            </Pagination>
+            <Affiliation>Department of Clinical Epidemiology, Leiden University Hospital Medical Centre, The Netherlands. vdbroucke@mail.medfac.leidenuniv.nl</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vandenbroucke</LastName>
+                    <ForeName>J P</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Biography</PublicationType>
+                <PublicationType>Comment</PublicationType>
+                <PublicationType>Historical Article</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>J</CitationSubset>
+        <CitationSubset>Q</CitationSubset>
+        <CommentsCorrections>
+            <CommentOn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):4-9</RefSource>
+
+            </CommentOn>
+            <CommentIn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):1-3</RefSource>
+
+            </CommentIn>
+        </CommentsCorrections>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Transmission</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">England</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epidemiology</DescriptorName>
+                <QualifierName MajorTopicYN="Y">history</QualifierName>
+                <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">History, 19th Century</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Industry</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+                <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Periodicals</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <PersonalNameSubjectList>
+            <PersonalNameSubject>
+                <LastName>Snow</LastName>
+                <ForeName>J</ForeName>
+                <Initials>J</Initials>
+            </PersonalNameSubject>
+        </PersonalNameSubjectList>
+        <OtherID Source="PIP">151460</OtherID>
+        <OtherID Source="POP">00296809</OtherID>
+        <OtherAbstract Type="PIP">
+            <AbstractText>This paper presents a commentary on the testimony delivered by Dr. John Snow before the British Parliamentary Committee in 1855.  It is noted that in Snow's testimony was highlighted his extremely strong belief in germ theory and contagion and his consequent contempt for anything close to the rivaling theory that miasmatic emanations cause disease.  Snow's unreasonableness may have been because he already held his germ theory and drinking water convictions before he made his observations.  In addition, based on his published books it has become apparent that even his data analysis was guided by such preconceptions.  Although Snow's opinion on germ theory created contemporaries, it is noted however, that Snow did not truly sway contemporary opinion, and his theories were not agreed as a complete breakthrough in the way that they are often presented as being in epidemiological textbooks.  Overall, the fundamental problem with the miasma and contagion theories at the time was that both failed to answer certain questions, including transmission of diseases, development of diseases, and the issue of temporary carriers of causative germs.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="PIP">
+            <Keyword MajorTopicYN="N">Bacterial And Fungal Diseases</Keyword>
+            <Keyword MajorTopicYN="Y">Beliefs</Keyword>
+            <Keyword MajorTopicYN="Y">Cholera--transmission</Keyword>
+            <Keyword MajorTopicYN="N">Communication</Keyword>
+            <Keyword MajorTopicYN="Y">Critique</Keyword>
+            <Keyword MajorTopicYN="N">Culture</Keyword>
+            <Keyword MajorTopicYN="N">Diseases</Keyword>
+            <Keyword MajorTopicYN="N">Infections</Keyword>
+            <Keyword MajorTopicYN="Y">Influentials--men</Keyword>
+            <Keyword MajorTopicYN="N">Knowledge Sources</Keyword>
+            <Keyword MajorTopicYN="Y">Men</Keyword>
+        </KeywordList>
+        <GeneralNote Owner="PIP">TJ: AMERICAN JOURNAL OF EPIDEMIOLOGY.</GeneralNote>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Soft-tissue sarcoma and non-Hodgkin's lymphoma clusters around a municipal solid waste incinerator with high dioxin emission levels.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>13-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Overall evidence from epidemiologic studies in the workplace suggests that dioxin is a human carcinogen, but whether low doses affect the general population remains to be determined. The authors examined the spatial distribution of soft-tissue sarcomas and non-Hodgkin's lymphomas around a French municipal solid waste incinerator with high emission levels of dioxin (16.3 ng international toxic equivalency factor/m3). Not consistently associated with dioxin exposure,-Hodgkin's disease served as the control cancer category. Clusters were identified from 1980 to 1995 in the area ("departement') of Doubs by applying a spatial scan statistic to 26 electoral wards. The most likely and highly significant clusters found were identical for soft-tissue sarcomas and non-Hodgkin's lymphomas and included the area around the municipal solid waste incinerator; standardized incidence ratios were 1.44 (observed number of cases = 45, focused test p value = 0.004) and 1.27 (observed number of cases = 286, focused test p value = 0.00003), respectively. Conversely, Hodgkin's disease exhibited no specific spatial distribution. Confounding by socioeconomic status, urbanization, or patterns of medical referral seemed unlikely to explain the clusters. Although consistent, these findings should be confirmed by further investigation (e.g., a case-control study in which dioxins are measured in biologic tissues) before clusters of soft-tissue sarcoma and non-Hodgkin's lymphoma are ascribed to dioxin released by the municipal solid waste incinerator.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Public Health, Faculty of Medicine, Besancon, France. jean-francois.viel@ufc-chu.univ-fcomte.fr</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Viel</LastName>
+                    <ForeName>J F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arveux</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baverel</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cahn</LastName>
+                    <ForeName>J Y</ForeName>
+                    <Initials>JY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Dioxins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dioxins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">France</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hodgkin Disease</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lymphoma, Non-Hodgkin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Refuse Disposal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, Non-U.S. Gov't</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sarcoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Soft Tissue Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Space-Time Clustering</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>
