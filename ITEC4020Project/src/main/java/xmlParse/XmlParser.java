@@ -24,43 +24,47 @@ import org.dom4j.io.XMLWriter;
 
 public class XmlParser {
 	
+	/*
+	A FileInputStream obtains input bytes from a file in a file system. FileInputStream is meant for reading streams of raw bytes such as image data. For reading streams of characters
+	*/
 	
 	FileInputStream input;
 	
-	//Initialize the parser with a file input for parsing 
+	//Initialize the parser with a file input for parsing. In this case it will be the 4020A1-Datasets
 	public XmlParser(FileInputStream input) {
 		this.input = input;
 	}
 
-	/**
-	 * @param articleTitle
-	 *        the articleTitle tag you want to find in the xml file
-	 * 
-	 * @return a list of article titles
-	 */
+	
+	// this method allows us to target specific elements in the xml file and extract its contents. 
+	// @param articleTitle = the tag you want to find in the xml file
+	
 	public List<String> extractElementText(String articleTitle) {
 		
-		//SAXReader to read xml file
+		//We've decided to use the SAX(Simple API for XML) to read our XML file as an alternative to the DOM because it is faster and doesn't take as much memory. 
 		SAXReader reader = new SAXReader();
-		//use xPath to identify the node to find
+		
+		//use xPath to identify the node to find. The use of "//" indicates xPaths syntax to search for all arguments that match the article title
 		String xPathArticleTitle = "//"+articleTitle;
 		
 		try {
 			//a document object will be created after reading the file
 			Document document = reader.read(input);
+			
 			//create a list to store the titles
 			List<String> titles = new ArrayList<String>();
 			
-			//selectNodes method will return a list of nodes that we want to find
-			//we want to the article title tag 
+			//We will create a list of nodes to store the mined articleTitle elements.
+			//The selectNodes method will return a list of nodes that we want to find 
 			List<Node> articleList = document.selectNodes(xPathArticleTitle);
-			//a iterator is created to loop through the whole list of article titles 
+			
+			//An iterator is necessary to loop through the list of nodes we created above 
 			Iterator<Node> iter = articleList.iterator();
 
 			while(iter.hasNext()) {
-				//get each articletitle node
+				//fetch each ArticleTitle node
 				Node article = iter.next();
-				//get the text of the articletitle node
+				//get and save the text of the ArticleTitle node to the String title var
 				String title = article.getText();
 				//add the title to the title list
 				titles.add(title);
@@ -72,22 +76,24 @@ public class XmlParser {
 			throw new RuntimeException("Parse Failed");
 		}
 	}
+	
+	
 
 	/**
 	 * @param titles
 	 *        titles to be written into a file
-	 */
+	*/
 	public void writeXml(List<String> titles) {
 		//declare a XML writer to write xml file
 		XMLWriter writer = null;
 
 		try {
-			//create a document object 
+			//create a document object. This will be the document the writer writes to. 
 			Document document = DocumentHelper.createDocument();
-			//add the root element to the document object
+			//Begin by adding the root element to the document object
 			Element articleSet = document.addElement("PubmedArticleSet");
 			
-			//for each title in the title list
+			//A for-loop to add each title in the list to the document. 
 			for (String title : titles) {
 				//add a PubmedArticle tag and ArticleTitle tag
 				Element pubmedArticle = articleSet.addElement("PubmedArticle");
@@ -122,13 +128,11 @@ public class XmlParser {
 		}
 
 	}
-
 	
 	public static void main(String[] args) throws FileNotFoundException {
-		XmlParser parser = new XmlParser(new FileInputStream("4020a1-datasets.xml"));
+		XmlParser parser = new XmlParser(new FileInputStream("C:\\Users\\sonmendez\\git\\Project-1-ITEC-4020\\ITEC4020Project\\src\\main\\java\\xmlParse\\4020a1-datasets"));
 		List<String> titles = parser.extractElementText("ArticleTitle");
 		parser.writeXml(titles);
-		
-	}
-
+	
+}
 }
